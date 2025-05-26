@@ -4,7 +4,7 @@
 
 ### 🔐 About Me
 - 💥 I build ethical hacking tools and automate security tasks in Python
-- 🧠 I’m learning offensive security, reverse engineering, and malware analysis
+- 🧠 I’m learning offensive security, OSINT , and Defensive Security
 - 🎯 I solve CTF challenges from TryHackMe, HackTheBox, and more
 
 ---
