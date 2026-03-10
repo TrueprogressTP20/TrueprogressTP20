@@ -4,14 +4,14 @@
 
 ### 🔐 About Me
 - 💥 I build ethical hacking tools and automate security tasks in Python
-- 🧠 I’m learning offensive security, OSINT , and Defensive Security
+- 🧠 I’m learning offensive security, OSINT , Digital Forensics and Defensive Security
 - 🎯 I solve CTF challenges from TryHackMe, HackTheBox, and more
 
 ---
 
 ### 🛠️ Tools & Skills
 - **Languages**: Python, Bash, JavaScript, Go
-- **Security Tools**: Nmap, Wireshark, Metasploit, Burp Suite, Sp;lunk
+- **Security Tools**: Nmap, Wireshark, Metasploit, Burp Suite, Splunk, Linux, Operating system 
 - **Platforms**: Kali Linux, TryHackMe, HackTheBox
 - **Concepts**: OWASP Top 10, MITRE ATT&CK, Network Security
 
@@ -31,4 +31,5 @@
 
 ### 📫 Connect With Me
 - LinkedIn: [Kelly Ayomide](https://linkedin.com/in/kellyayomide)
-- TryHackMe: [trueprogress](https://tryhackme.com/p/trueprogress)
+- Instagram: [Trueprogresstech]
+(https://www.instagram.com/trueprogress_tech)
